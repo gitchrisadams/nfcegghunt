@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NFC Egg Hunt</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_find_egg">Find Eggs!</string>
+    <string name="title_activity_you_lose">You Lose :(</string>
+    <string name="title_activity_you_won">You Won!</string>
+    <string name="title_activity_how_to_play">HowToPlay</string>
+    <string name="title_activity_buy_nfc_tags">BuyNfcTags</string>
+    <string name="title_activity_nfc_not_enabled">NfcNotEnabled</string>
+</resources>
